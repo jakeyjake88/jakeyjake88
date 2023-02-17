@@ -20,7 +20,7 @@ My expertise lies within building out back-end programs and writing compatibilit
 <br/>  
 
 
-## Rapidfire  
+## What I'm up to 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [RemindMe](https://github.com/jakeyjake88/RemindMe)  
