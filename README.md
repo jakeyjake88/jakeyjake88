@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Primarily back-end developer, dabbling in full-stack and game development.
+Cloud engineer. hobbyist gamedev
 
 My expertise lies within building out back-end programs and writing compatibility for AWS. Specialize in Java, Python, React.js.  
   
