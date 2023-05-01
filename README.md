@@ -23,7 +23,7 @@ My expertise lies within building out back-end programs and writing compatibilit
 - 🔭 I’m currently working on [RemindMe](https://github.com/jakeyjake88/RemindMe)  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning Rust & PHP  
   
 
 - 👩‍💻 During my free time I enjoy learning new technologies and spending time outdoors.  
