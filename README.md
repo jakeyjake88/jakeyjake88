@@ -9,9 +9,9 @@
 
 
 ### Glad to see you here!  
-Cloud Engineer @ Bridgestone Americas. hobbyist gamedev
+Cloud & Infrastructure Engineer @ Bridgestone Americas. hobbyist gamedev
 
-My expertise lies within building out back-end programs and writing compatibility for AWS. Specialize in Java, Python, and React.js
+My expertise lies within building applications and designing cloud-based infrastructure to hoist them.
   
 
 <br/>  
