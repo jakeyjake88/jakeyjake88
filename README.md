@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-Cloud & Infrastructure Engineer @ Bridgestone Americas. hobbyist gamedev
+Sr Cloud Engineer @ Aderant. hobbyist gamedev
 
 My expertise lies within building applications and designing cloud-based infrastructure to hoist them.
   
@@ -19,11 +19,9 @@ My expertise lies within building applications and designing cloud-based infrast
 
 ## What I'm up to 
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [RemindMe](https://github.com/jakeyjake88/RemindMe)  
   
 
-- 🌱 I’m currently learning Rust & PHP  
+- 🌱 Learning! Lot of pipeline and Azure work as of late.
   
 
 - 👩‍💻 During my free time I enjoy learning new technologies and spending time outdoors.  
