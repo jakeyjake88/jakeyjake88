@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-Sr Cloud Engineer @ Aderant. hobbyist gamedev
+Cloud Engineer @ Aderant. hobbyist gamedev
 
 My expertise lies within building applications and designing cloud-based infrastructure to hoist them.
   
